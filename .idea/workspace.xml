@@ -2,14 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3b4d40bc-ee4f-4222-aadf-9e8a111ea9e5" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/DemoPack/BottlesBeer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DemoPack/HowOldAreYou.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DemoPack/Loops.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DemoPack/SongChorus.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DemoPack/loopfor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DemoPack/AgeDate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DemoPack/ArrayPrint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DemoPack/Method2String.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DemoPack/MethodString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DemoPack/Targil1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DemoPack/isPositive.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java/DemoPack/HelloWorld.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java/DemoPack/HelloWorld.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DemoPack/NestedIfElseDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DemoPack/NestedIfElseDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DemoPack/SongChorus.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DemoPack/SongChorus.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -25,59 +25,29 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="HelloWorld.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/DemoPack/HelloWorld.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="1" selection-start-line="1" selection-end-line="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="HowOldAreYou.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/DemoPack/HowOldAreYou.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="110">
-              <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Loops.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/DemoPack/Loops.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" lean-forward="true" selection-start-line="5" selection-start-column="3" selection-end-line="6" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="loopfor.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/DemoPack/loopfor.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="22" lean-forward="true" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="BottlesBeer.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/DemoPack/BottlesBeer.java">
+      <file leaf-file-name="ArrayPrint.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/DemoPack/ArrayPrint.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="135">
-              <caret line="32" column="116" lean-forward="true" selection-start-line="32" selection-start-column="116" selection-end-line="32" selection-end-column="116" />
+              <caret line="9" column="36" lean-forward="true" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="36" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SongChorus.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/DemoPack/SongChorus.java">
+      <file leaf-file-name="Targil1.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/DemoPack/Targil1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="111">
-              <caret line="10" column="58" selection-start-line="10" selection-start-column="58" selection-end-line="10" selection-end-column="58" />
+            <state relative-caret-position="285">
+              <caret line="19" column="31" selection-start-line="19" selection-start-column="31" selection-end-line="19" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Method2String.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/DemoPack/Method2String.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="375">
+              <caret line="25" column="9" lean-forward="true" selection-start-line="23" selection-start-column="8" selection-end-line="25" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -135,6 +105,12 @@
         <option value="$PROJECT_DIR$/src/DemoPack/Haruzim.java" />
         <option value="$PROJECT_DIR$/src/DemoPack/BottlesBeer.java" />
         <option value="$PROJECT_DIR$/src/DemoPack/SongChorus.java" />
+        <option value="$PROJECT_DIR$/src/DemoPack/isPositive.java" />
+        <option value="$PROJECT_DIR$/src/DemoPack/AgeDate.java" />
+        <option value="$PROJECT_DIR$/src/DemoPack/MethodString.java" />
+        <option value="$PROJECT_DIR$/src/DemoPack/Method2String.java" />
+        <option value="$PROJECT_DIR$/src/DemoPack/ArrayPrint.java" />
+        <option value="$PROJECT_DIR$/src/DemoPack/Targil1.java" />
       </list>
     </option>
   </component>
@@ -197,9 +173,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.SongChorus">
-    <configuration name="BottlesBeer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DemoPack.BottlesBeer" />
+  <component name="RunManager" selected="Application.Targil1">
+    <configuration name="AgeDate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DemoPack.AgeDate" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
@@ -208,8 +184,8 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="Haruzim" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DemoPack.Haruzim" />
+    <configuration name="ArrayPrint" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DemoPack.ArrayPrint" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
@@ -218,8 +194,8 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="NestedIfElseDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DemoPack.NestedIfElseDemo" />
+    <configuration name="Method2String" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DemoPack.Method2String" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
@@ -228,8 +204,8 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="SongChorus" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DemoPack.SongChorus" />
+    <configuration name="MethodString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DemoPack.MethodString" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
@@ -238,8 +214,8 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="loopfor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DemoPack.loopfor" />
+    <configuration name="Targil1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DemoPack.Targil1" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
@@ -249,19 +225,19 @@
       </extension>
     </configuration>
     <list>
-      <item itemvalue="Application.NestedIfElseDemo" />
-      <item itemvalue="Application.loopfor" />
-      <item itemvalue="Application.Haruzim" />
-      <item itemvalue="Application.BottlesBeer" />
-      <item itemvalue="Application.SongChorus" />
+      <item itemvalue="Application.AgeDate" />
+      <item itemvalue="Application.MethodString" />
+      <item itemvalue="Application.Method2String" />
+      <item itemvalue="Application.ArrayPrint" />
+      <item itemvalue="Application.Targil1" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.SongChorus" />
-        <item itemvalue="Application.BottlesBeer" />
-        <item itemvalue="Application.Haruzim" />
-        <item itemvalue="Application.loopfor" />
-        <item itemvalue="Application.NestedIfElseDemo" />
+        <item itemvalue="Application.Targil1" />
+        <item itemvalue="Application.ArrayPrint" />
+        <item itemvalue="Application.Method2String" />
+        <item itemvalue="Application.MethodString" />
+        <item itemvalue="Application.AgeDate" />
       </list>
     </recent_temporary>
   </component>
@@ -290,7 +266,14 @@
       <option name="project" value="LOCAL" />
       <updated>1541442637824</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="sec">
+      <created>1541963315330</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1541963315330</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -299,28 +282,28 @@
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" order="7" weight="0.32242423" />
-      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32242423" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info id="Image Layers" order="2" />
-      <window_info anchor="right" id="Capture Analysis" order="3" />
-      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50572246" side_tool="true" weight="0.3091168" />
-      <window_info anchor="right" id="Maven Projects" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50572246" side_tool="true" weight="0.3091168" />
+      <window_info anchor="right" id="Maven Projects" order="6" />
       <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49427754" visible="true" weight="0.34545454" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.3272727" />
-      <window_info id="Capture Tool" order="2" />
-      <window_info id="Designer" order="2" />
+      <window_info id="Capture Tool" order="7" />
+      <window_info id="Designer" order="3" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1795422" />
-      <window_info id="Learn" order="2" />
+      <window_info id="Learn" order="5" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info id="UI Designer" order="2" />
-      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4690909" />
-      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="Inspection Results" order="8" />
+      <window_info anchor="bottom" id="Inspection Results" order="10" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
@@ -331,11 +314,11 @@
       <window_info anchor="bottom" id="Find" order="1" weight="0.32905984" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49427754" weight="0.40727273" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49427754" visible="true" weight="0.34545454" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection Results" order="11" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1795422" />
+      <window_info anchor="bottom" id="Inspection Results" order="10" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1795422" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Theme Preview" order="5" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -343,18 +326,18 @@
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.47030303" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4690909" />
       <window_info id="Learn" order="5" />
-      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.3272727" />
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50572246" side_tool="true" weight="0.3091168" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info id="Capture Tool" order="6" />
+      <window_info id="Capture Tool" order="7" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.32363635" />
-      <window_info anchor="right" id="Maven Projects" order="7" />
-      <window_info id="Favorites" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32242423" />
+      <window_info anchor="right" id="Maven Projects" order="6" />
+      <window_info id="Favorites" order="6" side_tool="true" />
     </layout-to-restore>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -383,76 +366,10 @@
       <breakpoints-dialog>
         <breakpoints-dialog />
       </breakpoints-dialog>
-      <option name="time" value="21" />
+      <option name="time" value="24" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/company/Earth.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/MathEquation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="34" column="8" selection-start-line="34" selection-start-column="8" selection-end-line="34" selection-end-column="22" />
-          <folding>
-            <element signature="e#184#185#0" expanded="true" />
-            <element signature="e#214#215#0" expanded="true" />
-            <element signature="e#260#261#0" expanded="true" />
-            <element signature="e#298#299#0" expanded="true" />
-            <element signature="e#489#490#0" expanded="true" />
-            <element signature="e#518#519#0" expanded="true" />
-            <element signature="e#560#561#0" expanded="true" />
-            <element signature="e#596#597#0" expanded="true" />
-            <element signature="e#629#630#0" expanded="true" />
-            <element signature="e#658#659#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/Mmain.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="51" selection-start-line="20" selection-start-column="51" selection-end-line="20" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/Earth.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/MathEquation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="34" column="8" selection-start-line="34" selection-start-column="8" selection-end-line="34" selection-end-column="22" />
-          <folding>
-            <element signature="e#184#185#0" expanded="true" />
-            <element signature="e#214#215#0" expanded="true" />
-            <element signature="e#260#261#0" expanded="true" />
-            <element signature="e#298#299#0" expanded="true" />
-            <element signature="e#489#490#0" expanded="true" />
-            <element signature="e#518#519#0" expanded="true" />
-            <element signature="e#560#561#0" expanded="true" />
-            <element signature="e#596#597#0" expanded="true" />
-            <element signature="e#629#630#0" expanded="true" />
-            <element signature="e#658#659#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/Mmain.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="51" selection-start-line="20" selection-start-column="51" selection-end-line="20" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/Earth.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
@@ -739,27 +656,62 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/DemoPack/BottlesBeer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="32" column="116" lean-forward="true" selection-start-line="32" selection-start-column="116" selection-end-line="32" selection-end-column="116" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DemoPack/SongChorus.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="563">
+          <caret line="43" lean-forward="true" selection-start-line="43" selection-end-line="43" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/DemoPack/HelloWorld.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/DemoPack/HowOldAreYou.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+        <state relative-caret-position="375">
+          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/DemoPack/NestedIfElseDemo.java">
+    <entry file="file://$PROJECT_DIR$/src/DemoPack/AgeDate.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="27" selection-start-line="4" selection-start-column="27" selection-end-line="4" selection-end-column="27" />
+        <state relative-caret-position="75">
+          <caret line="5" column="44" lean-forward="true" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DemoPack/ArrayPrint.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="36" lean-forward="true" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DemoPack/isPositive.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" lean-forward="true" selection-start-line="13" selection-start-column="8" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DemoPack/MethodString.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="44" selection-start-line="10" selection-start-column="31" selection-end-line="10" selection-end-column="44" />
         </state>
       </provider>
     </entry>
@@ -772,22 +724,29 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/DemoPack/Loops.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" lean-forward="true" selection-start-line="5" selection-start-column="3" selection-end-line="6" />
+        <state relative-caret-position="60">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/DemoPack/BottlesBeer.java">
+    <entry file="file://$PROJECT_DIR$/src/DemoPack/NestedIfElseDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="32" column="116" lean-forward="true" selection-start-line="32" selection-start-column="116" selection-end-line="32" selection-end-column="116" />
+        <state relative-caret-position="105">
+          <caret line="7" column="30" selection-start-line="4" selection-start-column="8" selection-end-line="7" selection-end-column="30" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/DemoPack/SongChorus.java">
+    <entry file="file://$PROJECT_DIR$/src/DemoPack/Method2String.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="111">
-          <caret line="10" column="58" selection-start-line="10" selection-start-column="58" selection-end-line="10" selection-end-column="58" />
+        <state relative-caret-position="375">
+          <caret line="25" column="9" lean-forward="true" selection-start-line="23" selection-start-column="8" selection-end-line="25" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DemoPack/Targil1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="31" selection-start-line="19" selection-start-column="31" selection-end-line="19" selection-end-column="31" />
         </state>
       </provider>
     </entry>
