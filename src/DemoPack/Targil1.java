@@ -16,7 +16,7 @@ public class Targil1 {
 
 
         for (int i = 0; i < length && numbers[i] != 237; i++) {
-            if (numbers[i] % 2 == 0) // print only even numbers till 237
+            if (numbers[i] % 2 == 0)                                  // print only even numbers till 237
 
                 System.out.println(numbers[i]);
 
