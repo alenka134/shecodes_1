@@ -6,7 +6,7 @@ import java.util.Random; // Generate random numbers with this library
 public class randomTutorial {
     public static void main(String[] args) {
         Random rnd = new Random();
-        System.out.println(rnd.nextInt(100));
+        System.out.println(rnd.nextInt(10));
 
 
         Random rand = new Random();
