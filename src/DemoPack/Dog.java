@@ -32,7 +32,6 @@ public class Dog {
         System.out.println("For Piper Saratoga to fly 5.5 hr, it takes " + piperSaratoga.fuelNeeded(5.5) + " gallons of fuel");
 
 
-
         //  cessna172Endurance = cessna172.fuelCapacity / cessna172.fuelBurnRate;
         // System.out.println("Cessna 172 endurance: " + cessna172Endurance + " hours in the air");
 
@@ -64,8 +63,9 @@ class aircraft {
         // System.out.println("The endurance is " + endurance + "hours.");
 
     }
-double fuelNeeded(double time){
+
+    double fuelNeeded(double time) {
 
         return fuelBurnRate * time;
-}
+    }
 }

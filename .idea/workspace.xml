@@ -2,12 +2,56 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3b4d40bc-ee4f-4222-aadf-9e8a111ea9e5" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/bank/createaccount/ApplicationMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/bank/createaccount/BankAccount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/bank/createaccount/COD.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/bank/createaccount/Checking.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/bank/createaccount/Saving.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DemoPack/LearnJavaonline/bankdoor/BankVaultDoor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DemoPack/LearnJavaonline/bankdoor/CarDoor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DemoPack/LearnJavaonline/bankdoor/Door.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DemoPack/LearnJavaonline/bankdoor/DoorMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DemoPack/LearnJavaonline/bankdoor/HouseFrontDoor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DemoPack/LearnJavaonline/bankdoor/UniversalDoorKey.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DemoPack/Lesson10/AbstractClassesAndMethods/AppMammal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DemoPack/Lesson10/AbstractClassesAndMethods/Human.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DemoPack/Lesson10/AbstractClassesAndMethods/Mammal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DemoPack/Lesson10/AbstractClassesAndMethods/Whale.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DemoPack/Lesson10/Character/CharacterSetup.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DemoPack/Lesson10/Character/Tommy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DemoPack/Lesson10/DefaultPackage/StartingPoint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DemoPack/Lesson10/DefaultPackage/Travis.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DemoPack/Lesson10/Example.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DemoPack/Lesson10/Machine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DemoPack/Lesson10/Overriding/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DemoPack/Lesson10/Overriding/AppAnimals.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DemoPack/Lesson10/Overriding/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DemoPack/Lesson10/Overriding/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DemoPack/Lesson10/Overriding/ObjectEqual/AppPoint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DemoPack/Lesson10/Overriding/ObjectEqual/PointObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DemoPack/Lesson10/Polymorphism/AppInsect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DemoPack/Lesson10/Polymorphism/Beatle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DemoPack/Lesson10/Polymorphism/Insect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DemoPack/Lesson10/Polymorphism/Roach.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DemoPack/Lesson10/Polymorphism/Spider.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DemoPack/Lesson11/Interface/AppSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DemoPack/Lesson11/Interface/Comparable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DemoPack/Lesson11/Interface/ComparableComparatorExample/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DemoPack/Lesson11/Interface/ComparableComparatorExample/Comparable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DemoPack/Lesson11/Interface/ComparableComparatorExample/House.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DemoPack/Lesson11/Interface/ComparableComparatorExample/PriceComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DemoPack/Lesson11/Interface/ComparableExample/Aspirant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DemoPack/Lesson11/Interface/ComparableExample/PointsComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DemoPack/Lesson11/Interface/ComparableExample/StudentComparatorByName.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DemoPack/Lesson11/Interface/ComparableExample/TestSort1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DemoPack/Lesson11/Interface/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/olympic/Athlete.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/olympic/Judoka.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/olympic/OlympicMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/olympic/RhythmicGymnasticGroup.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/olympic/Swimmer.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/DemoPack/Dog.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java/DemoPack/Dog.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/DemoPack/aircraft.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java/DemoPack/aircraft.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DemoPack/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DemoPack/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DemoPack/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DemoPack/Dog.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -23,64 +67,59 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="BankAccount.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/bank/createaccount/BankAccount.java">
+      <file leaf-file-name="AppSort.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/DemoPack/Lesson11/Interface/AppSort.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="20" column="22" selection-start-line="20" selection-start-column="22" selection-end-line="20" selection-end-column="22" />
+            <state relative-caret-position="98">
+              <caret line="28" column="53" selection-start-line="28" selection-start-column="53" selection-end-line="28" selection-end-column="53" />
               <folding>
-                <element signature="e#314#315#0" expanded="true" />
-                <element signature="e#370#371#0" expanded="true" />
-                <element signature="e#404#405#0" expanded="true" />
-                <element signature="e#434#435#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ApplicationMain.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/bank/createaccount/ApplicationMain.java">
+      <file leaf-file-name="StudentComparatorByName.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/DemoPack/Lesson11/Interface/ComparableExample/StudentComparatorByName.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="25" lean-forward="true" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Checking.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/bank/createaccount/Checking.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="23" selection-start-line="23" selection-end-line="23" />
+            <state relative-caret-position="180">
+              <caret line="12" column="48" selection-start-line="12" selection-start-column="48" selection-end-line="12" selection-end-column="48" />
               <folding>
-                <element signature="e#402#403#0" expanded="true" />
-                <element signature="e#476#477#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="COD.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/bank/createaccount/COD.java">
+      <file leaf-file-name="Comparable.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/DemoPack/Lesson11/Interface/Comparable.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" column="5" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+            <state relative-caret-position="45">
+              <caret line="3" column="17" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Student.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/DemoPack/Lesson11/Interface/Student.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="349">
+              <caret line="41" column="5" lean-forward="true" selection-start-line="41" selection-start-column="5" selection-end-line="41" selection-end-column="5" />
               <folding>
-                <element signature="e#409#410#0" expanded="true" />
-                <element signature="e#501#502#0" expanded="true" />
+                <element signature="e#811#812#0" expanded="true" />
+                <element signature="e#838#839#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Saving.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/bank/createaccount/Saving.java">
+      <file leaf-file-name="PointsComparator.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/DemoPack/Lesson11/Interface/ComparableExample/PointsComparator.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="22" column="1" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
+            <state relative-caret-position="90">
+              <caret line="6" column="60" selection-start-line="6" selection-start-column="30" selection-end-line="6" selection-end-column="60" />
               <folding>
-                <element signature="e#421#422#0" expanded="true" />
-                <element signature="e#499#500#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -91,6 +130,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -107,64 +147,63 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/DemoPack/LoopsSum1.java" />
-        <option value="$PROJECT_DIR$/src/DemoPack/ObjectPoint.java" />
-        <option value="$PROJECT_DIR$/src/DemoPack/Converter.java" />
-        <option value="$PROJECT_DIR$/src/DemoPack/MinMaxArray.java" />
-        <option value="$PROJECT_DIR$/src/DemoPack/MaxArr.java" />
-        <option value="$PROJECT_DIR$/src/DemoPack/MinTwo.java" />
-        <option value="$PROJECT_DIR$/src/DemoPack/MinTree.java" />
-        <option value="$PROJECT_DIR$/src/DemoPack/LinearSearch.java" />
-        <option value="$PROJECT_DIR$/src/DemoPack/randomTutorial.java" />
-        <option value="$PROJECT_DIR$/src/DemoPack/RandomFrom1.java" />
-        <option value="$PROJECT_DIR$/src/DemoPack/TwoDArray.java" />
-        <option value="$PROJECT_DIR$/src/DemoPack/TwoDString.java" />
-        <option value="$PROJECT_DIR$/src/DemoPack/NameAgecalc.java" />
-        <option value="$PROJECT_DIR$/src/DemoPack/NumTillZero.java" />
-        <option value="$PROJECT_DIR$/src/DemoPack/GetNumMax.java" />
-        <option value="$PROJECT_DIR$/src/DemoPack/UserInputtillO.java" />
-        <option value="$PROJECT_DIR$/src/DemoPack/TwoDExchange.java" />
-        <option value="$PROJECT_DIR$/src/DemoPack/InputToTwoD.java" />
-        <option value="$PROJECT_DIR$/src/DemoPack/RandomQuest.java" />
-        <option value="$PROJECT_DIR$/src/DemoPack/Lion.java" />
+        <option value="$PROJECT_DIR$/src/com/olympic/OlympicMain.java" />
+        <option value="$PROJECT_DIR$/src/com/olympic/RhythmicGymnasticGroup.java" />
         <option value="$PROJECT_DIR$/src/DemoPack/Dog.java" />
-        <option value="$PROJECT_DIR$/src/DemoPack/Lesson7.java" />
-        <option value="$PROJECT_DIR$/src/DemoPack/Planner.java" />
-        <option value="$PROJECT_DIR$/src/DemoPack/CubLeon.java" />
-        <option value="$PROJECT_DIR$/src/DemoPack/MethodToString.java" />
-        <option value="$PROJECT_DIR$/src/DemoPack/Item.java" />
-        <option value="$PROJECT_DIR$/src/DemoPack/ToStringDemo.java" />
-        <option value="$PROJECT_DIR$/src/DemoPack/PointCoordinates.java" />
-        <option value="$PROJECT_DIR$/src/DemoPack/ItemPrinting.java" />
-        <option value="$PROJECT_DIR$/src/DemoPack/App.java" />
-        <option value="$PROJECT_DIR$/src/DemoPack/Frog.java" />
-        <option value="$PROJECT_DIR$/src/DemoPack/PlayerMain.java" />
-        <option value="$PROJECT_DIR$/src/DemoPack/FootballPlayer.java" />
-        <option value="$PROJECT_DIR$/src/DemoPack/StartingPoint.java" />
-        <option value="$PROJECT_DIR$/src/DemoPack/Cat.java" />
-        <option value="$PROJECT_DIR$/src/DemoPack/Employer.java" />
+        <option value="$PROJECT_DIR$/src/DemoPack/LearnJavaonline/bankdoor/CarDoor.java" />
+        <option value="$PROJECT_DIR$/src/DemoPack/LearnJavaonline/bankdoor/BankVaultDoor.java" />
+        <option value="$PROJECT_DIR$/src/DemoPack/LearnJavaonline/bankdoor/HouseFrontDoor.java" />
+        <option value="$PROJECT_DIR$/src/DemoPack/LearnJavaonline/bankdoor/DoorMain.java" />
+        <option value="$PROJECT_DIR$/src/DemoPack/LearnJavaonline/bankdoor/Door.java" />
+        <option value="$PROJECT_DIR$/src/DemoPack/LearnJavaonline/bankdoor/UniversalDoorKey.java" />
         <option value="$PROJECT_DIR$/src/DemoPack/Car.java" />
-        <option value="$PROJECT_DIR$/src/DemoPack/CarDriver.java" />
-        <option value="$PROJECT_DIR$/src/DemoPack/Tutorial.java" />
-        <option value="$PROJECT_DIR$/src/DemoPack/Student.java" />
+        <option value="$PROJECT_DIR$/src/DemoPack/Lesson10/Machine.java" />
+        <option value="$PROJECT_DIR$/src/DemoPack/Lesson10/Example.java" />
+        <option value="$PROJECT_DIR$/src/DemoPack/Lesson10/Polymorphism/Insect.java" />
+        <option value="$PROJECT_DIR$/src/DemoPack/Lesson10/Polymorphism/MainInsect.java" />
+        <option value="$PROJECT_DIR$/src/DemoPack/Lesson10/Polymorphism/Roach.java" />
+        <option value="$PROJECT_DIR$/src/DemoPack/Lesson10/AbstractClassesAndMethods/Mammal.java" />
+        <option value="$PROJECT_DIR$/src/DemoPack/Lesson10/AbstractClassesAndMethods/Whale.java" />
+        <option value="$PROJECT_DIR$/src/DemoPack/Lesson10/AbstractClassesAndMethods/Human.java" />
+        <option value="$PROJECT_DIR$/src/DemoPack/Lesson10/Polymorphism/AppInsect.java" />
+        <option value="$PROJECT_DIR$/src/DemoPack/Lesson10/Polymorphism/Beatle.java" />
+        <option value="$PROJECT_DIR$/src/DemoPack/Lesson10/Polymorphism/Spyder.java" />
+        <option value="$PROJECT_DIR$/src/DemoPack/Lesson10/Polymorphism/Spider.java" />
+        <option value="$PROJECT_DIR$/src/DemoPack/Lesson10/Overriding/AppAnimals.java" />
+        <option value="$PROJECT_DIR$/src/DemoPack/Lesson10/Overriding/Animal.java" />
+        <option value="$PROJECT_DIR$/src/DemoPack/Lesson10/Overriding/Cat.java" />
+        <option value="$PROJECT_DIR$/src/DemoPack/Lesson10/Overriding/Dog.java" />
         <option value="$PROJECT_DIR$/src/DemoPack/PointMain.java" />
-        <option value="$PROJECT_DIR$/src/DemoPack/Point.java" />
-        <option value="$PROJECT_DIR$/src/DemoPack/Coffee.java" />
-        <option value="$PROJECT_DIR$/src/DemoPack/Beverage.java" />
-        <option value="$PROJECT_DIR$/src/DemoPack/Checking.java" />
-        <option value="$PROJECT_DIR$/src/DemoPack/BankAccount.java" />
-        <option value="$PROJECT_DIR$/src/com/bank/createaccount/Saving.java" />
-        <option value="$PROJECT_DIR$/src/com/bank/createaccount/COD.java" />
-        <option value="$PROJECT_DIR$/src/com/bank/createaccount/BankAccount.java" />
-        <option value="$PROJECT_DIR$/src/com/bank/createaccount/ApplicationMain.java" />
-        <option value="$PROJECT_DIR$/src/com/bank/createaccount/Checking.java" />
+        <option value="$PROJECT_DIR$/src/DemoPack/Lesson10/Overriding/ObjectEqual/Point.java" />
+        <option value="$PROJECT_DIR$/src/DemoPack/Lesson10/Overriding/ObjectEqual/PointObject.java" />
+        <option value="$PROJECT_DIR$/src/DemoPack/Lesson10/Overriding/ObjectEqual/AppPoint.java" />
+        <option value="$PROJECT_DIR$/src/DemoPack/Lesson10/DefaultPackage/StartingPoint.java" />
+        <option value="$PROJECT_DIR$/src/DemoPack/Lesson10/Character/Tommy.java" />
+        <option value="$PROJECT_DIR$/src/DemoPack/Lesson10/DefaultPackage/Travis.java" />
+        <option value="$PROJECT_DIR$/src/DemoPack/Lesson10/Character/CharacterSetup.java" />
+        <option value="$PROJECT_DIR$/src/DemoPack/Lesson10/AccessModifiers.java" />
+        <option value="$PROJECT_DIR$/src/DemoPack/Lesson10/AbstractClassesAndMethods/AppMammal.java" />
+        <option value="$PROJECT_DIR$/src/DemoPack/Lesson11/Interface/ComparableExample/TestSort1.java" />
+        <option value="$PROJECT_DIR$/src/DemoPack/Lesson11/Interface/ComparableImpl.java" />
+        <option value="$PROJECT_DIR$/src/DemoPack/Lesson11/Interface/ComparableExample/Aspirant.java" />
+        <option value="$PROJECT_DIR$/src/DemoPack/Lesson11/Interface/Comparable.java" />
+        <option value="$PROJECT_DIR$/src/DemoPack/Lesson11/Interface/ComparableComparatorExample/TestApp.java" />
+        <option value="$PROJECT_DIR$/src/DemoPack/Lesson11/Interface/ComparableComparatorExample/PriceComparator.java" />
+        <option value="$PROJECT_DIR$/src/DemoPack/Lesson11/Interface/ComparableComparatorExample/Comparable.java" />
+        <option value="$PROJECT_DIR$/src/DemoPack/Lesson11/Interface/Sort.java" />
+        <option value="dfd468b5-cc88-46fb-bce8-69ad04548369/consoles/MysqlLocalRoot" />
+        <option value="$PROJECT_DIR$/src/DemoPack/Lesson11/Interface/ComparableComparatorExample/House.java" />
+        <option value="$PROJECT_DIR$/src/DemoPack/Lesson11/Interface/ComparableComparatorExample/AppTest.java" />
+        <option value="$PROJECT_DIR$/src/DemoPack/Lesson11/Interface/ComparableExample/PointsComparator.java" />
+        <option value="$PROJECT_DIR$/src/DemoPack/Lesson11/Interface/ComparableExample/StudentComparatorByName.java" />
+        <option value="$PROJECT_DIR$/src/DemoPack/Lesson11/Interface/Student.java" />
+        <option value="$PROJECT_DIR$/src/DemoPack/Lesson11/Interface/AppSort.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="y" value="23" />
-    <option name="width" value="754" />
-    <option name="height" value="797" />
+    <option name="width" value="1440" />
+    <option name="height" value="900" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -174,7 +213,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -191,36 +231,48 @@
               <item name="Java" type="b2602c69:ProjectViewProjectNode" />
               <item name="Java" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Java" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Java" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="createaccount" type="462c0819:PsiDirectoryNode" />
+              <item name="DemoPack" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Java" type="b2602c69:ProjectViewProjectNode" />
               <item name="Java" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="DemoPack" type="462c0819:PsiDirectoryNode" />
+              <item name="Lesson10" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="DemoPack" type="462c0819:PsiDirectoryNode" />
+              <item name="Lesson10" type="462c0819:PsiDirectoryNode" />
+              <item name="DefaultPackage" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="DemoPack" type="462c0819:PsiDirectoryNode" />
+              <item name="Interface" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="create.test.in.the.same.root" value="true" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="com.company" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="DemoPack.Lesson11.Interface" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -235,71 +287,71 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ApplicationMain">
-    <configuration name="ApplicationMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.bank.createaccount.ApplicationMain" />
+  <component name="RunManager" selected="Application.AppSort">
+    <configuration name="AppMammal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DemoPack.Lesson10.AbstractClassesAndMethods.AppMammal" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.bank.createaccount.*" />
+          <option name="PATTERN" value="DemoPack.Lesson10.AbstractClassesAndMethods.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="Checking" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.bank.createaccount.Checking" />
+    <configuration name="AppSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DemoPack.Lesson11.Interface.AppSort" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.bank.createaccount.*" />
+          <option name="PATTERN" value="DemoPack.Lesson11.Interface.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="Coffee" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DemoPack.Coffee" />
+    <configuration name="AppTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DemoPack.Lesson11.Interface.ComparableComparatorExample.AppTest" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.bank.createaccount.*" />
+          <option name="PATTERN" value="DemoPack.Lesson11.Interface.ComparableComparatorExample.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="PointMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DemoPack.PointMain" />
+    <configuration name="StartingPoint" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DemoPack.Lesson10.DefaultPackage.StartingPoint" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.bank.createaccount.*" />
+          <option name="PATTERN" value="DemoPack.Lesson10.DefaultPackage.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="Tutorial" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DemoPack.Tutorial" />
+    <configuration name="TestSort1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DemoPack.Lesson11.Interface.ComparableExample.TestSort1" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.bank.createaccount.*" />
+          <option name="PATTERN" value="DemoPack.Lesson11.Interface.ComparableExample.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
     <list>
-      <item itemvalue="Application.Tutorial" />
-      <item itemvalue="Application.PointMain" />
-      <item itemvalue="Application.Coffee" />
-      <item itemvalue="Application.Checking" />
-      <item itemvalue="Application.ApplicationMain" />
+      <item itemvalue="Application.AppMammal" />
+      <item itemvalue="Application.StartingPoint" />
+      <item itemvalue="Application.AppSort" />
+      <item itemvalue="Application.TestSort1" />
+      <item itemvalue="Application.AppTest" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ApplicationMain" />
-        <item itemvalue="Application.Checking" />
-        <item itemvalue="Application.Coffee" />
-        <item itemvalue="Application.PointMain" />
-        <item itemvalue="Application.Tutorial" />
+        <item itemvalue="Application.AppSort" />
+        <item itemvalue="Application.AppTest" />
+        <item itemvalue="Application.AppMammal" />
+        <item itemvalue="Application.TestSort1" />
+        <item itemvalue="Application.StartingPoint" />
       </list>
     </recent_temporary>
   </component>
@@ -391,7 +443,14 @@
       <option name="project" value="LOCAL" />
       <updated>1546463248755</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="sec">
+      <created>1546887737094</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1546887737094</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TodoView">
@@ -405,23 +464,23 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32969698" />
-      <window_info anchor="bottom" id="Messages" order="11" weight="0.23151515" />
+      <window_info id="DB Browser" weight="0.3297568" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.24" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info id="Image Layers" order="2" />
+      <window_info anchor="bottom" id="DB Execution Console" weight="0.32969698" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5064378" side_tool="true" weight="0.34545454" />
       <window_info anchor="right" id="Maven Projects" order="6" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49356222" visible="true" weight="0.42545456" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49356222" visible="true" weight="0.43272728" />
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.32969698" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.3272727" />
       <window_info id="Capture Tool" order="7" />
       <window_info id="Designer" order="3" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18955651" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32905984" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14020029" />
       <window_info id="Learn" order="5" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -435,37 +494,8 @@
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32848486" />
     </layout>
-    <layout-to-restore>
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49427754" visible="true" weight="0.34545454" />
-      <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1795422" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Inspection Results" order="10" />
-      <window_info id="Designer" order="3" />
-      <window_info id="UI Designer" order="4" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32905984" />
-      <window_info id="Learn" order="5" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4690909" />
-      <window_info anchor="right" id="Palette&#9;" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.3272727" />
-      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50572246" side_tool="true" weight="0.3091168" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info id="Capture Tool" order="7" />
-      <window_info id="Image Layers" order="2" />
-      <window_info anchor="bottom" id="Messages" order="11" weight="0.32242423" />
-      <window_info anchor="right" id="Maven Projects" order="6" />
-      <window_info id="Favorites" order="6" side_tool="true" />
-    </layout-to-restore>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
@@ -499,7 +529,7 @@
       <breakpoints-dialog>
         <breakpoints-dialog />
       </breakpoints-dialog>
-      <option name="time" value="83" />
+      <option name="time" value="87" />
     </breakpoint-manager>
   </component>
   <component name="debuggerHistoryManager">
@@ -519,400 +549,364 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/DemoPack/MinTree.java">
+    <entry file="file://$PROJECT_DIR$/src/DemoPack/LearnJavaonline/bankdoor/Door.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="58" lean-forward="true" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="58" />
+        <state relative-caret-position="255">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/DemoPack/LinearSearch.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="70" selection-start-line="10" selection-start-column="70" selection-end-line="10" selection-end-column="70" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/DemoPack/AgeDate.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" lean-forward="true" selection-start-line="2" selection-end-line="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/DemoPack/BottlesBeer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="32" column="116" lean-forward="true" selection-start-line="32" selection-start-column="116" selection-end-line="32" selection-end-column="116" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/DemoPack/SongChorus.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="355">
-          <caret line="40" column="9" lean-forward="true" selection-start-line="37" selection-start-column="4" selection-end-line="40" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/DemoPack/NumTillZero.java" />
-    <entry file="file://$PROJECT_DIR$/src/DemoPack/GetNumMax.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-37">
-          <caret line="13" column="28" lean-forward="true" selection-start-line="13" selection-start-column="28" selection-end-line="13" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/DemoPack/MaxArr.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="182" selection-start-line="5" selection-start-column="182" selection-end-line="5" selection-end-column="182" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/DemoPack/ArrayPrint.java">
+    <entry file="file://$PROJECT_DIR$/src/DemoPack/App.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/DemoPack/TwoDArray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="16" selection-start-line="3" selection-start-column="16" selection-end-line="4" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/DemoPack/TwoDExchange.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1080">
-          <caret line="72" column="9" lean-forward="true" selection-start-line="72" selection-start-column="9" selection-end-line="72" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/DemoPack/TwoDString.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="26" lean-forward="true" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/DemoPack/NameAgecalc.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/DemoPack/InputToTwoD.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="486">
-          <caret line="36" selection-start-line="36" selection-end-line="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/DemoPack/RandomFrom1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/DemoPack/randomTutorial.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" lean-forward="true" selection-start-line="2" selection-start-column="1" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/DemoPack/UserInputtillO.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="25" lean-forward="true" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/DemoPack/Planner.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-10.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/lang/Integer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="436" column="25" selection-start-line="436" selection-start-column="25" selection-end-line="436" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/DemoPack/CubLeon.java" />
-    <entry file="file://$PROJECT_DIR$/src/DemoPack/MethodToString.java" />
-    <entry file="file://$PROJECT_DIR$/src/DemoPack/Method2String.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="25" column="9" lean-forward="true" selection-start-line="23" selection-start-column="8" selection-end-line="25" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/DemoPack/RandomGuess.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="7" column="44" selection-start-line="7" selection-start-column="44" selection-end-line="7" selection-end-column="44" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/DemoPack/Lesson7.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="17" lean-forward="true" selection-start-column="17" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/DemoPack/PointCoordinates.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="34" selection-start-line="17" selection-start-column="34" selection-end-line="17" selection-end-column="34" />
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DemoPack/PointMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" selection-start-line="2" selection-end-line="12" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DemoPack/Point.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="16" column="5" lean-forward="true" selection-start-line="13" selection-start-column="4" selection-end-line="16" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DemoPack/Lesson10/test.java" />
+    <entry file="file://$PROJECT_DIR$/src/DemoPack/Lesson10/Overriding/ObjectEqual/AppPoint.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DemoPack/Lesson10/Overriding/ObjectEqual/PointObject.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="19" column="20" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DemoPack/Lesson10/Character/CharacterSetup.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="7" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
           <folding>
-            <element signature="e#239#240#0" expanded="true" />
-            <element signature="e#271#272#0" expanded="true" />
-            <element signature="e#299#300#0" expanded="true" />
-            <element signature="e#331#332#0" expanded="true" />
-            <element signature="e#403#404#0" expanded="true" />
-            <element signature="e#459#460#0" expanded="true" />
+            <element signature="e#118#119#0" expanded="true" />
+            <element signature="e#147#148#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/DemoPack/ToStringDemo.java">
+    <entry file="file://$PROJECT_DIR$/src/DemoPack/Lesson10/Character/Tommy.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        <state relative-caret-position="60">
+          <caret line="4" column="5" selection-start-line="4" selection-start-column="5" selection-end-line="4" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/DemoPack/StartingPoint.java">
+    <entry file="file://$PROJECT_DIR$/src/DemoPack/Lesson10/Overriding/Dog.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="22" lean-forward="true" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
+        <state relative-caret-position="150">
+          <caret line="10" column="122" selection-start-line="10" selection-start-column="122" selection-end-line="10" selection-end-column="122" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/DemoPack/Dog.java">
+    <entry file="file://$PROJECT_DIR$/src/DemoPack/Lesson10/Overriding/Animal.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="26" column="39" lean-forward="true" selection-start-line="25" selection-start-column="8" selection-end-line="26" selection-end-column="39" />
+        <state relative-caret-position="60">
+          <caret line="4" column="31" selection-start-line="4" selection-start-column="31" selection-end-line="4" selection-end-column="31" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/DemoPack/Item.java">
+    <entry file="file://$PROJECT_DIR$/src/DemoPack/Lesson10/Example.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DemoPack/Lesson10/Machine.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DemoPack/Lesson10/Overriding/AppAnimals.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="18" selection-start-line="13" selection-start-column="18" selection-end-line="13" selection-end-column="18" />
+          <folding>
+            <element signature="e#276#277#0" expanded="true" />
+            <element signature="e#303#304#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DemoPack/Lesson10/Overriding/Cat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="28" selection-start-line="8" selection-start-column="28" selection-end-line="8" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DemoPack/Lesson10/Polymorphism/AppInsect.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="20" selection-start-line="16" selection-start-column="20" selection-end-line="16" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DemoPack/Lesson10/Polymorphism/Beatle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DemoPack/Lesson10/Polymorphism/Insect.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="33" selection-start-line="4" selection-start-column="33" selection-end-line="4" selection-end-column="33" />
+          <folding>
+            <element signature="e#84#85#0" expanded="true" />
+            <element signature="e#126#127#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DemoPack/Lesson10/Polymorphism/Roach.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
-          <caret line="5" column="71" lean-forward="true" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="71" />
+          <caret line="5" column="43" selection-start-line="5" selection-start-column="43" selection-end-line="5" selection-end-column="43" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/DemoPack/ItemPrinting.java">
+    <entry file="file://$PROJECT_DIR$/src/DemoPack/Lesson10/Polymorphism/Spider.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="8" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/DemoPack/Frog.java">
+    <entry file="file://$PROJECT_DIR$/src/DemoPack/Lesson10/AccessModifiers.java" />
+    <entry file="file://$PROJECT_DIR$/src/DemoPack/Lesson10/AbstractClassesAndMethods/Human.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="16" column="42" lean-forward="true" selection-start-line="16" selection-start-column="35" selection-end-line="16" selection-end-column="42" />
+        <state relative-caret-position="225">
+          <caret line="15" column="1" lean-forward="true" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/DemoPack/Lion.java">
+    <entry file="file://$PROJECT_DIR$/src/DemoPack/Lesson10/AbstractClassesAndMethods/Mammal.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="501">
-          <caret line="35" column="6" selection-start-line="35" selection-start-column="6" selection-end-line="35" selection-end-column="6" />
+        <state relative-caret-position="180">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/DemoPack/PlayerMain.java">
+    <entry file="file://$PROJECT_DIR$/src/DemoPack/Lesson10/AbstractClassesAndMethods/Whale.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DemoPack/Lesson10/AbstractClassesAndMethods/AppMammal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="10" selection-start-line="15" selection-start-column="10" selection-end-line="15" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DemoPack/Lesson10/DefaultPackage/Travis.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="1" lean-forward="true" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DemoPack/Lesson10/DefaultPackage/StartingPoint.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DemoPack/Lesson11/Interface/ComparableImpl.java" />
+    <entry file="file://$PROJECT_DIR$/src/DemoPack/Lesson11/Interface/ComparableExample/Aspirant.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="21" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DemoPack/Lesson11/Interface/ComparableComparatorExample/PriceComparator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="22" lean-forward="true" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DemoPack/Lesson11/Interface/ComparableComparatorExample/Comparable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="59" selection-start-line="3" selection-start-column="59" selection-end-line="3" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DemoPack/Lesson11/Interface/Sort.java" />
+    <entry file="file://$PROJECT_DIR$/src/DemoPack/Lesson11/Interface/ComparableExample/TestSort1.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="5" column="44" lean-forward="true" selection-start-line="5" selection-start-column="44" selection-end-line="5" selection-end-column="44" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/DemoPack/Cat.java">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-10.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/TreeSet.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="17" lean-forward="true" selection-start-line="14" selection-start-column="17" selection-end-line="15" selection-end-column="8" />
+        <state relative-caret-position="147">
+          <caret line="91" column="37" selection-start-line="91" selection-start-column="37" selection-end-line="91" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-10.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/AbstractSet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="57" column="53" selection-start-line="57" selection-start-column="53" selection-end-line="57" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-10.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/AbstractCollection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="60" column="22" selection-start-line="60" selection-start-column="22" selection-end-line="60" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-10.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="124" column="47" selection-start-line="124" selection-start-column="37" selection-end-line="124" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-10.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/Collection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="219" column="17" selection-start-line="219" selection-start-column="17" selection-end-line="219" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-10.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/List.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="137" column="39" selection-start-line="137" selection-start-column="39" selection-end-line="137" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-10.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/AbstractList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="72" column="81" selection-start-line="72" selection-start-column="81" selection-end-line="72" selection-end-column="81" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-10.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/ArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="107" column="39" lean-forward="true" selection-start-line="107" selection-start-column="39" selection-end-line="107" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="db://dfd468b5-cc88-46fb-bce8-69ad04548369/consoles/MysqlLocalRoot">
+      <provider selected="true" editor-type-id="0.CONSOLE">
+        <state line="8" column="19" selection-start="137" selection-end="137" vertical-scroll-proportion="0.24390244">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DemoPack/Lesson11/Interface/ComparableComparatorExample/House.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-180">
+          <caret line="2" column="40" lean-forward="true" selection-start-line="2" selection-start-column="40" selection-end-line="2" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DemoPack/Lesson11/Interface/ComparableComparatorExample/AppTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="314">
+          <caret line="28" column="7" selection-start-line="28" selection-start-column="7" selection-end-line="28" selection-end-column="7" />
           <folding>
-            <element signature="e#75#76#0" expanded="true" />
-            <element signature="e#99#100#0" expanded="true" />
-            <element signature="e#123#124#0" expanded="true" />
-            <element signature="e#163#164#0" expanded="true" />
-            <element signature="e#255#256#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/DemoPack/Employer.java">
+    <entry file="file://$PROJECT_DIR$/src/DemoPack/Lesson11/Interface/Comparable.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-135">
-          <caret line="14" lean-forward="true" selection-start-line="9" selection-start-column="4" selection-end-line="14" />
+        <state relative-caret-position="45">
+          <caret line="3" column="17" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/DemoPack/App.java">
+    <entry file="file://$PROJECT_DIR$/src/DemoPack/Lesson11/Interface/StudentComparatorByName.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="17" selection-start-column="17" selection-end-column="17" />
+        <state relative-caret-position="60">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/DemoPack/Student.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="25" column="5" lean-forward="true" selection-start-line="20" selection-start-column="4" selection-end-line="25" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/DemoPack/Tutorial.java">
+    <entry file="file://$PROJECT_DIR$/src/DemoPack/Lesson11/Interface/ComparableExample/PointsComparator.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
-          <caret line="6" column="39" selection-start-line="5" selection-start-column="8" selection-end-line="6" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/DemoPack/Point.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="5" lean-forward="true" selection-start-line="13" selection-start-column="4" selection-end-line="16" selection-end-column="5" />
+          <caret line="6" column="60" selection-start-line="6" selection-start-column="30" selection-end-line="6" selection-end-column="60" />
           <folding>
-            <element signature="e#468#469#0" expanded="true" />
-            <element signature="e#535#536#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/DemoPack/FootballPlayer.java">
+    <entry file="file://$PROJECT_DIR$/src/DemoPack/Lesson11/Interface/Student.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="202">
-          <caret line="22" column="59" lean-forward="true" selection-start-line="22" selection-start-column="8" selection-end-line="22" selection-end-column="59" />
+        <state relative-caret-position="349">
+          <caret line="41" column="5" lean-forward="true" selection-start-line="41" selection-start-column="5" selection-end-line="41" selection-end-column="5" />
           <folding>
-            <element signature="e#270#271#0" expanded="true" />
-            <element signature="e#303#304#0" expanded="true" />
-            <element signature="e#332#333#0" expanded="true" />
-            <element signature="e#360#361#0" expanded="true" />
-            <element signature="e#406#407#0" expanded="true" />
-            <element signature="e#472#473#0" expanded="true" />
-            <element signature="e#516#517#0" expanded="true" />
-            <element signature="e#550#551#0" expanded="true" />
+            <element signature="e#811#812#0" expanded="true" />
+            <element signature="e#838#839#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/DemoPack/PointMain.java">
+    <entry file="file://$PROJECT_DIR$/src/DemoPack/Lesson11/Interface/ComparableExample/StudentComparatorByName.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
-          <caret line="12" column="1" lean-forward="true" selection-start-line="2" selection-end-line="12" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/DemoPack/Car.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="24" column="5" lean-forward="true" selection-start-line="18" selection-start-column="4" selection-end-line="24" selection-end-column="5" />
+          <caret line="12" column="48" selection-start-line="12" selection-start-column="48" selection-end-line="12" selection-end-column="48" />
           <folding>
-            <element signature="e#458#459#0" expanded="true" />
-            <element signature="e#486#487#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/DemoPack/CarDriver.java">
+    <entry file="file://$PROJECT_DIR$/src/DemoPack/Lesson11/Interface/AppSort.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="29" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/DemoPack/Beverage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="5" lean-forward="true" selection-start-line="8" selection-start-column="4" selection-end-line="12" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/DemoPack/Coffee.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="5" lean-forward="true" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/bank/createaccount/BankAccount.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="20" column="22" selection-start-line="20" selection-start-column="22" selection-end-line="20" selection-end-column="22" />
+        <state relative-caret-position="98">
+          <caret line="28" column="53" selection-start-line="28" selection-start-column="53" selection-end-line="28" selection-end-column="53" />
           <folding>
-            <element signature="e#314#315#0" expanded="true" />
-            <element signature="e#370#371#0" expanded="true" />
-            <element signature="e#404#405#0" expanded="true" />
-            <element signature="e#434#435#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/bank/createaccount/COD.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="5" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
-          <folding>
-            <element signature="e#409#410#0" expanded="true" />
-            <element signature="e#501#502#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/bank/createaccount/Saving.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" column="1" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
-          <folding>
-            <element signature="e#421#422#0" expanded="true" />
-            <element signature="e#499#500#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-10.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/lang/Object.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="149">
-          <caret line="244" column="18" selection-start-line="244" selection-start-column="18" selection-end-line="244" selection-end-column="18" />
-          <folding>
-            <element signature="e#10225#10226#0" expanded="true" />
-            <element signature="e#10308#10309#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/bank/createaccount/Checking.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" selection-start-line="23" selection-end-line="23" />
-          <folding>
-            <element signature="e#402#403#0" expanded="true" />
-            <element signature="e#476#477#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/bank/createaccount/ApplicationMain.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="25" lean-forward="true" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
         </state>
       </provider>
     </entry>

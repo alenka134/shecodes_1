@@ -44,4 +44,5 @@ public class Car {
         speed = speed - 10;
         System.out.println("Brake speed: " + speed);
     }
+
 }
