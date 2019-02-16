@@ -2,56 +2,47 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3b4d40bc-ee4f-4222-aadf-9e8a111ea9e5" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DemoPack/LearnJavaonline/bankdoor/BankVaultDoor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DemoPack/LearnJavaonline/bankdoor/CarDoor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DemoPack/LearnJavaonline/bankdoor/Door.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DemoPack/LearnJavaonline/bankdoor/DoorMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DemoPack/LearnJavaonline/bankdoor/HouseFrontDoor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DemoPack/LearnJavaonline/bankdoor/UniversalDoorKey.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DemoPack/Lesson10/AbstractClassesAndMethods/AppMammal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DemoPack/Lesson10/AbstractClassesAndMethods/Human.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DemoPack/Lesson10/AbstractClassesAndMethods/Mammal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DemoPack/Lesson10/AbstractClassesAndMethods/Whale.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DemoPack/Lesson10/Character/CharacterSetup.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DemoPack/Lesson10/Character/Tommy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DemoPack/Lesson10/DefaultPackage/StartingPoint.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DemoPack/Lesson10/DefaultPackage/Travis.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DemoPack/Lesson10/Example.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DemoPack/Lesson10/Machine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DemoPack/Lesson10/Overriding/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DemoPack/Lesson10/Overriding/AppAnimals.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DemoPack/Lesson10/Overriding/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DemoPack/Lesson10/Overriding/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DemoPack/Lesson10/Overriding/ObjectEqual/AppPoint.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DemoPack/Lesson10/Overriding/ObjectEqual/PointObject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DemoPack/Lesson10/Polymorphism/AppInsect.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DemoPack/Lesson10/Polymorphism/Beatle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DemoPack/Lesson10/Polymorphism/Insect.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DemoPack/Lesson10/Polymorphism/Roach.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DemoPack/Lesson10/Polymorphism/Spider.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DemoPack/Lesson11/Interface/AppSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DemoPack/Lesson11/Interface/Comparable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DemoPack/Lesson11/Interface/ComparableComparatorExample/AppTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DemoPack/Lesson11/Interface/ComparableComparatorExample/Comparable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DemoPack/Lesson11/Interface/ComparableComparatorExample/House.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DemoPack/Lesson11/Interface/ComparableComparatorExample/PriceComparator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DemoPack/Lesson11/Interface/ComparableExample/Aspirant.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DemoPack/Lesson11/Interface/ComparableExample/PointsComparator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DemoPack/Lesson11/Interface/ComparableExample/StudentComparatorByName.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DemoPack/Lesson11/Interface/ComparableExample/TestSort1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DemoPack/Lesson11/Interface/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/olympic/Athlete.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/olympic/Judoka.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/olympic/OlympicMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/olympic/RhythmicGymnasticGroup.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/olympic/Swimmer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DemoPack/Garbage/AnimalDog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DemoPack/Lesson11/Interface/Integration/AppIntegration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DemoPack/Lesson11/Interface/Integration/IStartable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DemoPack/Lesson11/Interface/Integration/Info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DemoPack/Lesson11/Interface/Integration/Machine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DemoPack/Lesson11/Interface/Integration/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DemoPack/Lesson11/Interface/PassByValue/IceCream.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DemoPack/Lesson11/Interface/PassByValue/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DemoPack/Lesson12/Abstract/Anonymous/Age.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DemoPack/Lesson12/Abstract/Anonymous/AnonymousDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DemoPack/Lesson12/Abstract/Anonymous/ExampleAnonymous/Runnable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DemoPack/Lesson12/Abstract/Anonymous/ExampleAnonymous/RunnableMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DemoPack/Lesson12/Abstract/Anonymous/ExampleAnonymous/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DemoPack/Lesson12/Abstract/Anonymous/ExampleAnonymous/TaskMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DemoPack/Lesson12/Abstract/Anonymous/MyClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DemoPack/Lesson12/Abstract/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DemoPack/Lesson12/Abstract/Camera.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DemoPack/Lesson12/Abstract/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DemoPack/Lesson12/Abstract/InnerClassExample/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DemoPack/Lesson12/Abstract/InnerClassExample/DataStructure.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DemoPack/Lesson12/Abstract/InnerClassExample/DataStructureIterator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DemoPack/Lesson12/Abstract/Machine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DemoPack/Lesson13/Exceptions/TryAndCatch/Calendar/CalendarDateFormate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DemoPack/Lesson13/Exceptions/TryAndCatch/Calendar/NYTimeZone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DemoPack/Lesson13/Exceptions/TryAndCatch/Demo1/AppFileReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DemoPack/Lesson13/Exceptions/TryAndCatch/Demo2/AppFileReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DemoPack/Lesson13/Exceptions/TryAndCatch/Demo3/AppFileOpen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DemoPack/Lesson13/Exceptions/TryAndCatch/Exe1ListOfNumbers/ListOfNumbers1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DemoPack/Lesson13/Exceptions/TryAndCatch/Exe1ListOfNumbers/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DemoPack/Lesson13/Exceptions/TryAndCatch/Exe2/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DemoPack/Lesson13/Exceptions/TryAndCatch/Exe2/MainCat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DemoPack/Lesson13/Exceptions/TryAndCatch/MultipleExceptions/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DemoPack/Lesson13/Exceptions/TryAndCatch/MultipleExceptions/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DemoPack/Lesson13/Exceptions/TryAndCatch/MyClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DemoPack/Lesson13/Exceptions/TryAndCatch/Throw/MyClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DemoPack/Lesson13/Exceptions/TryAndCatch/Throw/targil1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dbnavigator.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java/DemoPack/Dog.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java/DemoPack/Dog.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java/DemoPack/aircraft.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java/DemoPack/aircraft.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DemoPack/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DemoPack/Car.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DemoPack/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DemoPack/Dog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/DemoPack/AgeDate.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java/DemoPack/AgeDate.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DemoPack/AgeDate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DemoPack/AgeDate.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -67,11 +58,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="AppSort.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/DemoPack/Lesson11/Interface/AppSort.java">
+      <file leaf-file-name="CalendarDateFormate.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/DemoPack/Lesson13/Exceptions/TryAndCatch/Calendar/CalendarDateFormate.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="98">
-              <caret line="28" column="53" selection-start-line="28" selection-start-column="53" selection-end-line="28" selection-end-column="53" />
+            <state relative-caret-position="257">
+              <caret line="31" column="62" lean-forward="true" selection-start-line="29" selection-start-column="8" selection-end-line="31" selection-end-column="62" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -79,45 +70,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="StudentComparatorByName.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/DemoPack/Lesson11/Interface/ComparableExample/StudentComparatorByName.java">
+      <file leaf-file-name="NYTimeZone.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/DemoPack/Lesson13/Exceptions/TryAndCatch/Calendar/NYTimeZone.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="48" selection-start-line="12" selection-start-column="48" selection-end-line="12" selection-end-column="48" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Comparable.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/DemoPack/Lesson11/Interface/Comparable.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" column="17" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Student.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/DemoPack/Lesson11/Interface/Student.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="349">
-              <caret line="41" column="5" lean-forward="true" selection-start-line="41" selection-start-column="5" selection-end-line="41" selection-end-column="5" />
-              <folding>
-                <element signature="e#811#812#0" expanded="true" />
-                <element signature="e#838#839#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="PointsComparator.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/DemoPack/Lesson11/Interface/ComparableExample/PointsComparator.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="60" selection-start-line="6" selection-start-column="30" selection-end-line="6" selection-end-column="60" />
+            <state relative-caret-position="178">
+              <caret line="13" column="33" selection-start-line="13" selection-start-column="33" selection-end-line="13" selection-end-column="33" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -147,50 +104,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/olympic/OlympicMain.java" />
-        <option value="$PROJECT_DIR$/src/com/olympic/RhythmicGymnasticGroup.java" />
-        <option value="$PROJECT_DIR$/src/DemoPack/Dog.java" />
-        <option value="$PROJECT_DIR$/src/DemoPack/LearnJavaonline/bankdoor/CarDoor.java" />
-        <option value="$PROJECT_DIR$/src/DemoPack/LearnJavaonline/bankdoor/BankVaultDoor.java" />
-        <option value="$PROJECT_DIR$/src/DemoPack/LearnJavaonline/bankdoor/HouseFrontDoor.java" />
-        <option value="$PROJECT_DIR$/src/DemoPack/LearnJavaonline/bankdoor/DoorMain.java" />
-        <option value="$PROJECT_DIR$/src/DemoPack/LearnJavaonline/bankdoor/Door.java" />
-        <option value="$PROJECT_DIR$/src/DemoPack/LearnJavaonline/bankdoor/UniversalDoorKey.java" />
-        <option value="$PROJECT_DIR$/src/DemoPack/Car.java" />
-        <option value="$PROJECT_DIR$/src/DemoPack/Lesson10/Machine.java" />
-        <option value="$PROJECT_DIR$/src/DemoPack/Lesson10/Example.java" />
-        <option value="$PROJECT_DIR$/src/DemoPack/Lesson10/Polymorphism/Insect.java" />
-        <option value="$PROJECT_DIR$/src/DemoPack/Lesson10/Polymorphism/MainInsect.java" />
-        <option value="$PROJECT_DIR$/src/DemoPack/Lesson10/Polymorphism/Roach.java" />
-        <option value="$PROJECT_DIR$/src/DemoPack/Lesson10/AbstractClassesAndMethods/Mammal.java" />
-        <option value="$PROJECT_DIR$/src/DemoPack/Lesson10/AbstractClassesAndMethods/Whale.java" />
-        <option value="$PROJECT_DIR$/src/DemoPack/Lesson10/AbstractClassesAndMethods/Human.java" />
-        <option value="$PROJECT_DIR$/src/DemoPack/Lesson10/Polymorphism/AppInsect.java" />
-        <option value="$PROJECT_DIR$/src/DemoPack/Lesson10/Polymorphism/Beatle.java" />
-        <option value="$PROJECT_DIR$/src/DemoPack/Lesson10/Polymorphism/Spyder.java" />
-        <option value="$PROJECT_DIR$/src/DemoPack/Lesson10/Polymorphism/Spider.java" />
-        <option value="$PROJECT_DIR$/src/DemoPack/Lesson10/Overriding/AppAnimals.java" />
-        <option value="$PROJECT_DIR$/src/DemoPack/Lesson10/Overriding/Animal.java" />
-        <option value="$PROJECT_DIR$/src/DemoPack/Lesson10/Overriding/Cat.java" />
-        <option value="$PROJECT_DIR$/src/DemoPack/Lesson10/Overriding/Dog.java" />
-        <option value="$PROJECT_DIR$/src/DemoPack/PointMain.java" />
-        <option value="$PROJECT_DIR$/src/DemoPack/Lesson10/Overriding/ObjectEqual/Point.java" />
-        <option value="$PROJECT_DIR$/src/DemoPack/Lesson10/Overriding/ObjectEqual/PointObject.java" />
-        <option value="$PROJECT_DIR$/src/DemoPack/Lesson10/Overriding/ObjectEqual/AppPoint.java" />
-        <option value="$PROJECT_DIR$/src/DemoPack/Lesson10/DefaultPackage/StartingPoint.java" />
-        <option value="$PROJECT_DIR$/src/DemoPack/Lesson10/Character/Tommy.java" />
-        <option value="$PROJECT_DIR$/src/DemoPack/Lesson10/DefaultPackage/Travis.java" />
-        <option value="$PROJECT_DIR$/src/DemoPack/Lesson10/Character/CharacterSetup.java" />
-        <option value="$PROJECT_DIR$/src/DemoPack/Lesson10/AccessModifiers.java" />
-        <option value="$PROJECT_DIR$/src/DemoPack/Lesson10/AbstractClassesAndMethods/AppMammal.java" />
-        <option value="$PROJECT_DIR$/src/DemoPack/Lesson11/Interface/ComparableExample/TestSort1.java" />
-        <option value="$PROJECT_DIR$/src/DemoPack/Lesson11/Interface/ComparableImpl.java" />
-        <option value="$PROJECT_DIR$/src/DemoPack/Lesson11/Interface/ComparableExample/Aspirant.java" />
-        <option value="$PROJECT_DIR$/src/DemoPack/Lesson11/Interface/Comparable.java" />
-        <option value="$PROJECT_DIR$/src/DemoPack/Lesson11/Interface/ComparableComparatorExample/TestApp.java" />
-        <option value="$PROJECT_DIR$/src/DemoPack/Lesson11/Interface/ComparableComparatorExample/PriceComparator.java" />
-        <option value="$PROJECT_DIR$/src/DemoPack/Lesson11/Interface/ComparableComparatorExample/Comparable.java" />
-        <option value="$PROJECT_DIR$/src/DemoPack/Lesson11/Interface/Sort.java" />
         <option value="dfd468b5-cc88-46fb-bce8-69ad04548369/consoles/MysqlLocalRoot" />
         <option value="$PROJECT_DIR$/src/DemoPack/Lesson11/Interface/ComparableComparatorExample/House.java" />
         <option value="$PROJECT_DIR$/src/DemoPack/Lesson11/Interface/ComparableComparatorExample/AppTest.java" />
@@ -198,6 +111,50 @@
         <option value="$PROJECT_DIR$/src/DemoPack/Lesson11/Interface/ComparableExample/StudentComparatorByName.java" />
         <option value="$PROJECT_DIR$/src/DemoPack/Lesson11/Interface/Student.java" />
         <option value="$PROJECT_DIR$/src/DemoPack/Lesson11/Interface/AppSort.java" />
+        <option value="$PROJECT_DIR$/src/DemoPack/Lesson11/Interface/Integration/Info.java" />
+        <option value="$PROJECT_DIR$/src/DemoPack/Lesson11/Interface/Integration/Person.java" />
+        <option value="$PROJECT_DIR$/src/DemoPack/Lesson11/Interface/Integration/Machine.java" />
+        <option value="$PROJECT_DIR$/src/DemoPack/Lesson11/Interface/Integration/AppIntegration.java" />
+        <option value="$PROJECT_DIR$/src/DemoPack/Lesson11/Interface/Integration/IStartable.java" />
+        <option value="$PROJECT_DIR$/src/DemoPack/Lesson11/Interface/PassByValue/IceCream.java" />
+        <option value="$PROJECT_DIR$/src/DemoPack/Lesson11/Interface/PassByValue/Main.java" />
+        <option value="$PROJECT_DIR$/src/DemoPack/Lesson12/Abstract/Machine.java" />
+        <option value="$PROJECT_DIR$/src/DemoPack/Lesson12/Abstract/Camera.java" />
+        <option value="$PROJECT_DIR$/src/DemoPack/Lesson12/Abstract/App.java" />
+        <option value="$PROJECT_DIR$/src/DemoPack/Lesson12/Abstract/Car.java" />
+        <option value="$PROJECT_DIR$/src/DemoPack/Lesson12/Abstract/Anonimus/Age.java" />
+        <option value="$PROJECT_DIR$/src/DemoPack/Lesson12/Abstract/Anonimus/MyClass.java" />
+        <option value="$PROJECT_DIR$/src/DemoPack/Lesson12/Abstract/Anonimus/AnonymousDemo.java" />
+        <option value="$PROJECT_DIR$/src/DemoPack/Lesson12/Abstract/Anonymous/AnonymousDemo.java" />
+        <option value="$PROJECT_DIR$/src/DemoPack/Lesson12/Abstract/InnerClassExample/EvenIterator.java" />
+        <option value="$PROJECT_DIR$/src/DemoPack/Lesson12/Abstract/InnerClassExample/App.java" />
+        <option value="$PROJECT_DIR$/src/DemoPack/Lesson12/Abstract/InnerClassExample/DataStructureIterator.java" />
+        <option value="$PROJECT_DIR$/src/DemoPack/Lesson12/Abstract/InnerClassExample/DataStructure.java" />
+        <option value="$PROJECT_DIR$/src/DemoPack/Lesson12/Abstract/Anonymous/MyClass.java" />
+        <option value="$PROJECT_DIR$/src/DemoPack/Lesson12/Abstract/Anonymous/ExampleAnonymous/Task.java" />
+        <option value="$PROJECT_DIR$/src/DemoPack/Lesson12/Abstract/Anonymous/ExampleAnonymous/Main.java" />
+        <option value="$PROJECT_DIR$/src/DemoPack/Lesson12/Abstract/Anonymous/ExampleAnonymous/Runnable.java" />
+        <option value="$PROJECT_DIR$/src/DemoPack/Lesson12/Abstract/Anonymous/ExampleAnonymous/RunnableMain.java" />
+        <option value="$PROJECT_DIR$/src/DemoPack/Lesson12/Abstract/Anonymous/ExampleAnonymous/TaskMain.java" />
+        <option value="$PROJECT_DIR$/src/DemoPack/Garbage/AnimalDog.java" />
+        <option value="$PROJECT_DIR$/src/DemoPack/Lesson13/Exceptions/TryAndCatch/MyClass.java" />
+        <option value="$PROJECT_DIR$/src/DemoPack/Lesson13/Exceptions/TryAndCatch/Throw/MyClass.java" />
+        <option value="$PROJECT_DIR$/src/DemoPack/Lesson13/Exceptions/TryAndCatch/Throw/targil1.java" />
+        <option value="$PROJECT_DIR$/src/DemoPack/Lesson13/Exceptions/TryAndCatch/Exe2/Cat.java" />
+        <option value="$PROJECT_DIR$/src/DemoPack/Lesson13/Exceptions/TryAndCatch/Exe2/MainCat.java" />
+        <option value="$PROJECT_DIR$/src/DemoPack/Lesson13/Exceptions/TryAndCatch/Exe1ListOfNumbers/ListOfNumbers.java" />
+        <option value="$PROJECT_DIR$/src/DemoPack/Lesson13/Exceptions/TryAndCatch/Exe1ListOfNumbers/ListOfNumbers2.java" />
+        <option value="$PROJECT_DIR$/src/DemoPack/Lesson13/Exceptions/TryAndCatch/AppFileReader.java" />
+        <option value="$PROJECT_DIR$/src/DemoPack/Lesson13/Exceptions/TryAndCatch/Demo1/AppFileReader.java" />
+        <option value="$PROJECT_DIR$/src/DemoPack/Lesson13/Exceptions/TryAndCatch/Demo2/AppFileReader.java" />
+        <option value="$PROJECT_DIR$/src/DemoPack/Lesson13/Exceptions/TryAndCatch/Demo3/AppFileOpen.java" />
+        <option value="$PROJECT_DIR$/src/DemoPack/Lesson13/Exceptions/TryAndCatch/MultipleExceptions/Test.java" />
+        <option value="$PROJECT_DIR$/src/DemoPack/Lesson13/Exceptions/TryAndCatch/MultipleExceptions/App.java" />
+        <option value="$PROJECT_DIR$/src/DemoPack/Lesson13/Exceptions/TryAndCatch/Exe1ListOfNumbers/Main.java" />
+        <option value="$PROJECT_DIR$/src/DemoPack/Lesson13/Exceptions/TryAndCatch/Exe1ListOfNumbers/ListOfNumbers1.java" />
+        <option value="$PROJECT_DIR$/src/DemoPack/AgeDate.java" />
+        <option value="$PROJECT_DIR$/src/DemoPack/Lesson13/Exceptions/TryAndCatch/Calendar/CalendarDateFormate.java" />
+        <option value="$PROJECT_DIR$/src/DemoPack/Lesson13/Exceptions/TryAndCatch/Calendar/NYTimeZone.java" />
       </list>
     </option>
   </component>
@@ -213,7 +170,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
@@ -238,28 +195,21 @@
               <item name="Java" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="DemoPack" type="462c0819:PsiDirectoryNode" />
-              <item name="Lesson10" type="462c0819:PsiDirectoryNode" />
+              <item name="TryAndCatch" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Java" type="b2602c69:ProjectViewProjectNode" />
               <item name="Java" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="DemoPack" type="462c0819:PsiDirectoryNode" />
-              <item name="Lesson10" type="462c0819:PsiDirectoryNode" />
-              <item name="DefaultPackage" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Java" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Java" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="DemoPack" type="462c0819:PsiDirectoryNode" />
-              <item name="Interface" type="462c0819:PsiDirectoryNode" />
+              <item name="TryAndCatch" type="462c0819:PsiDirectoryNode" />
+              <item name="Calendar" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -287,71 +237,71 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.AppSort">
-    <configuration name="AppMammal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DemoPack.Lesson10.AbstractClassesAndMethods.AppMammal" />
+  <component name="RunManager" selected="Application.NYTimeZone">
+    <configuration name="AgeDate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DemoPack.AgeDate" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="DemoPack.Lesson10.AbstractClassesAndMethods.*" />
+          <option name="PATTERN" value="DemoPack.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="AppSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DemoPack.Lesson11.Interface.AppSort" />
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DemoPack.Lesson13.Exceptions.TryAndCatch.MultipleExceptions.App" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="DemoPack.Lesson11.Interface.*" />
+          <option name="PATTERN" value="DemoPack.Lesson13.Exceptions.TryAndCatch.MultipleExceptions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="AppTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DemoPack.Lesson11.Interface.ComparableComparatorExample.AppTest" />
+    <configuration name="CalendarDateFormate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DemoPack.Lesson13.Exceptions.TryAndCatch.Calendar.CalendarDateFormate" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="DemoPack.Lesson11.Interface.ComparableComparatorExample.*" />
+          <option name="PATTERN" value="DemoPack.Lesson13.Exceptions.TryAndCatch.Calendar.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="StartingPoint" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DemoPack.Lesson10.DefaultPackage.StartingPoint" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DemoPack.Lesson13.Exceptions.TryAndCatch.Exe1ListOfNumbers.Main" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="DemoPack.Lesson10.DefaultPackage.*" />
+          <option name="PATTERN" value="DemoPack.Lesson13.Exceptions.TryAndCatch.Exe1ListOfNumbers.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="TestSort1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DemoPack.Lesson11.Interface.ComparableExample.TestSort1" />
+    <configuration name="NYTimeZone" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DemoPack.Lesson13.Exceptions.TryAndCatch.Calendar.NYTimeZone" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="DemoPack.Lesson11.Interface.ComparableExample.*" />
+          <option name="PATTERN" value="DemoPack.Lesson13.Exceptions.TryAndCatch.Calendar.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
     <list>
-      <item itemvalue="Application.AppMammal" />
-      <item itemvalue="Application.StartingPoint" />
-      <item itemvalue="Application.AppSort" />
-      <item itemvalue="Application.TestSort1" />
-      <item itemvalue="Application.AppTest" />
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.App" />
+      <item itemvalue="Application.AgeDate" />
+      <item itemvalue="Application.CalendarDateFormate" />
+      <item itemvalue="Application.NYTimeZone" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.AppSort" />
-        <item itemvalue="Application.AppTest" />
-        <item itemvalue="Application.AppMammal" />
-        <item itemvalue="Application.TestSort1" />
-        <item itemvalue="Application.StartingPoint" />
+        <item itemvalue="Application.NYTimeZone" />
+        <item itemvalue="Application.CalendarDateFormate" />
+        <item itemvalue="Application.AgeDate" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.App" />
       </list>
     </recent_temporary>
   </component>
@@ -450,7 +400,14 @@
       <option name="project" value="LOCAL" />
       <updated>1546887737094</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="sec">
+      <created>1548915992150</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1548915992150</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TodoView">
@@ -464,37 +421,38 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32969698" />
-      <window_info id="DB Browser" weight="0.3297568" />
-      <window_info anchor="bottom" id="Messages" order="11" weight="0.24" />
+      <window_info id="DB Browser" order="2" weight="0.3297568" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.34545454" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info id="Image Layers" order="2" />
-      <window_info anchor="bottom" id="DB Execution Console" weight="0.32969698" />
+      <window_info anchor="bottom" id="DB Execution Console" order="7" weight="0.32969698" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5064378" side_tool="true" weight="0.34545454" />
       <window_info anchor="right" id="Maven Projects" order="6" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49356222" visible="true" weight="0.43272728" />
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.32969698" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49356222" visible="true" weight="0.5090909" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.3272727" />
       <window_info id="Capture Tool" order="7" />
       <window_info id="Designer" order="3" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14020029" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16165951" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32848486" />
       <window_info id="Learn" order="5" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="4" />
       <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.5018182" />
       <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.5018182" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="Inspection Results" order="10" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
-      <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32848486" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Inspection Results" order="10" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -549,281 +507,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/DemoPack/LearnJavaonline/bankdoor/Door.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/DemoPack/App.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/DemoPack/PointCoordinates.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/DemoPack/PointMain.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" selection-start-line="2" selection-end-line="12" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/DemoPack/Point.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="92">
-          <caret line="16" column="5" lean-forward="true" selection-start-line="13" selection-start-column="4" selection-end-line="16" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/DemoPack/Lesson10/test.java" />
-    <entry file="file://$PROJECT_DIR$/src/DemoPack/Lesson10/Overriding/ObjectEqual/AppPoint.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" selection-start-line="13" selection-end-line="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/DemoPack/Lesson10/Overriding/ObjectEqual/PointObject.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="19" column="20" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/DemoPack/Lesson10/Character/CharacterSetup.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="7" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
-          <folding>
-            <element signature="e#118#119#0" expanded="true" />
-            <element signature="e#147#148#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/DemoPack/Lesson10/Character/Tommy.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="5" selection-start-line="4" selection-start-column="5" selection-end-line="4" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/DemoPack/Lesson10/Overriding/Dog.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="122" selection-start-line="10" selection-start-column="122" selection-end-line="10" selection-end-column="122" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/DemoPack/Lesson10/Overriding/Animal.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="31" selection-start-line="4" selection-start-column="31" selection-end-line="4" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/DemoPack/Lesson10/Example.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/DemoPack/Lesson10/Machine.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/DemoPack/Lesson10/Overriding/AppAnimals.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="18" selection-start-line="13" selection-start-column="18" selection-end-line="13" selection-end-column="18" />
-          <folding>
-            <element signature="e#276#277#0" expanded="true" />
-            <element signature="e#303#304#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/DemoPack/Lesson10/Overriding/Cat.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="28" selection-start-line="8" selection-start-column="28" selection-end-line="8" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/DemoPack/Lesson10/Polymorphism/AppInsect.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="20" selection-start-line="16" selection-start-column="20" selection-end-line="16" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/DemoPack/Lesson10/Polymorphism/Beatle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/DemoPack/Lesson10/Polymorphism/Insect.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="33" selection-start-line="4" selection-start-column="33" selection-end-line="4" selection-end-column="33" />
-          <folding>
-            <element signature="e#84#85#0" expanded="true" />
-            <element signature="e#126#127#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/DemoPack/Lesson10/Polymorphism/Roach.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="43" selection-start-line="5" selection-start-column="43" selection-end-line="5" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/DemoPack/Lesson10/Polymorphism/Spider.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/DemoPack/Lesson10/AccessModifiers.java" />
-    <entry file="file://$PROJECT_DIR$/src/DemoPack/Lesson10/AbstractClassesAndMethods/Human.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="1" lean-forward="true" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/DemoPack/Lesson10/AbstractClassesAndMethods/Mammal.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/DemoPack/Lesson10/AbstractClassesAndMethods/Whale.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/DemoPack/Lesson10/AbstractClassesAndMethods/AppMammal.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="10" selection-start-line="15" selection-start-column="10" selection-end-line="15" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/DemoPack/Lesson10/DefaultPackage/Travis.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="1" lean-forward="true" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/DemoPack/Lesson10/DefaultPackage/StartingPoint.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/DemoPack/Lesson11/Interface/ComparableImpl.java" />
-    <entry file="file://$PROJECT_DIR$/src/DemoPack/Lesson11/Interface/ComparableExample/Aspirant.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="21" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/DemoPack/Lesson11/Interface/ComparableComparatorExample/PriceComparator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="22" lean-forward="true" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/DemoPack/Lesson11/Interface/ComparableComparatorExample/Comparable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="59" selection-start-line="3" selection-start-column="59" selection-end-line="3" selection-end-column="59" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/DemoPack/Lesson11/Interface/Sort.java" />
-    <entry file="file://$PROJECT_DIR$/src/DemoPack/Lesson11/Interface/ComparableExample/TestSort1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="44" lean-forward="true" selection-start-line="5" selection-start-column="44" selection-end-line="5" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-10.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/TreeSet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="147">
-          <caret line="91" column="37" selection-start-line="91" selection-start-column="37" selection-end-line="91" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-10.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/AbstractSet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="147">
-          <caret line="57" column="53" selection-start-line="57" selection-start-column="53" selection-end-line="57" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-10.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/AbstractCollection.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="147">
-          <caret line="60" column="22" selection-start-line="60" selection-start-column="22" selection-end-line="60" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-10.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/lang/String.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="124" column="47" selection-start-line="124" selection-start-column="37" selection-end-line="124" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-10.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/Collection.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="147">
-          <caret line="219" column="17" selection-start-line="219" selection-start-column="17" selection-end-line="219" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-10.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/List.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="147">
-          <caret line="137" column="39" selection-start-line="137" selection-start-column="39" selection-end-line="137" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-10.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/AbstractList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="147">
-          <caret line="72" column="81" selection-start-line="72" selection-start-column="81" selection-end-line="72" selection-end-column="81" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-10.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/ArrayList.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="147">
@@ -849,9 +532,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="314">
           <caret line="28" column="7" selection-start-line="28" selection-start-column="7" selection-end-line="28" selection-end-column="7" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -862,20 +542,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/DemoPack/Lesson11/Interface/StudentComparatorByName.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DemoPack/Lesson11/Interface/StudentComparatorByName.java" />
     <entry file="file://$PROJECT_DIR$/src/DemoPack/Lesson11/Interface/ComparableExample/PointsComparator.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="6" column="60" selection-start-line="6" selection-start-column="30" selection-end-line="6" selection-end-column="60" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -883,10 +554,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="349">
           <caret line="41" column="5" lean-forward="true" selection-start-line="41" selection-start-column="5" selection-end-line="41" selection-end-column="5" />
-          <folding>
-            <element signature="e#811#812#0" expanded="true" />
-            <element signature="e#838#839#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -894,9 +561,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="12" column="48" selection-start-line="12" selection-start-column="48" selection-end-line="12" selection-end-column="48" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -904,6 +568,337 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="98">
           <caret line="28" column="53" selection-start-line="28" selection-start-column="53" selection-end-line="28" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DemoPack/Lesson11/Interface/Integration/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="52" selection-start-line="14" selection-start-column="52" selection-end-line="14" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DemoPack/Lesson11/Interface/Integration/Info.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DemoPack/Lesson11/Interface/Integration/IStartable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="23" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DemoPack/Lesson11/Interface/Integration/Machine.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DemoPack/Lesson11/Interface/Integration/AppIntegration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="17" column="39" selection-start-line="17" selection-start-column="39" selection-end-line="17" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DemoPack/Lesson11/Interface/PassByValue/IceCream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="51" selection-start-line="19" selection-start-column="51" selection-end-line="19" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DemoPack/Lesson11/Interface/PassByValue/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="22" column="53" selection-start-line="22" selection-start-column="53" selection-end-line="22" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DemoPack/Lesson12/Abstract/Machine.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="20" column="19" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="19" />
+          <folding>
+            <element signature="e#104#105#0" expanded="true" />
+            <element signature="e#129#130#0" expanded="true" />
+            <element signature="e#162#163#0" expanded="true" />
+            <element signature="e#190#191#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DemoPack/Lesson12/Abstract/App.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="27" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DemoPack/Lesson12/Abstract/Camera.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="6" column="44" selection-start-line="6" selection-start-column="44" selection-end-line="6" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DemoPack/Lesson12/Abstract/Car.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="62" selection-start-line="16" selection-start-column="62" selection-end-line="16" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DemoPack/Lesson12/Abstract/InnerClassExample/EvenIterator.java" />
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-10.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/Iterator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="628">
+          <caret line="65" column="12" selection-start-line="65" selection-start-column="12" selection-end-line="65" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DemoPack/Lesson12/Abstract/InnerClassExample/DataStructureIterator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DemoPack/Lesson12/Abstract/InnerClassExample/App.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="51" lean-forward="true" selection-start-column="51" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DemoPack/Lesson12/Abstract/InnerClassExample/DataStructure.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3">
+          <caret line="25" column="26" selection-start-line="25" selection-start-column="26" selection-end-line="25" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DemoPack/Lesson12/Abstract/Anonymous/Age.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="11" selection-start-line="2" selection-start-column="11" selection-end-line="2" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DemoPack/Lesson12/Abstract/Anonymous/AnonymousDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="53" selection-start-line="8" selection-start-column="53" selection-end-line="8" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DemoPack/Lesson12/Abstract/Anonymous/MyClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="14" column="8" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DemoPack/Lesson12/Abstract/Anonymous/ExampleAnonymous/TaskMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+          <folding>
+            <element signature="e#221#339#0" expanded="true" />
+            <element signature="e#338#339#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DemoPack/Lesson12/Abstract/Anonymous/ExampleAnonymous/Task.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="45" selection-start-line="5" selection-start-column="45" selection-end-line="5" selection-end-column="45" />
+          <folding>
+            <element signature="e#110#111#0" expanded="true" />
+            <element signature="e#146#147#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DemoPack/Lesson12/Abstract/Anonymous/ExampleAnonymous/RunnableMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="62" selection-start-line="14" selection-start-column="62" selection-end-line="14" selection-end-column="62" />
+          <folding>
+            <element signature="e#165#302#0" expanded="true" />
+            <element signature="e#301#302#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DemoPack/Lesson12/Abstract/Anonymous/ExampleAnonymous/Runnable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="8" column="20" lean-forward="true" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DemoPack/UserInputtillO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-25">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DemoPack/Garbage/AnimalDog.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DemoPack/Lesson13/Exceptions/TryAndCatch/Throw/MyClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="9" selection-start-line="6" selection-start-column="10" selection-end-line="8" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DemoPack/Lesson13/Exceptions/TryAndCatch/Throw/targil1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DemoPack/Lesson13/Exceptions/TryAndCatch/Exe2/MainCat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DemoPack/Lesson13/Exceptions/TryAndCatch/Exe1ListOfNumbers/ListOfNumbers2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="43" selection-start-line="43" selection-end-line="43" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1872#1873#0" expanded="true" />
+            <element signature="e#1908#1909#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DemoPack/Lesson13/Exceptions/TryAndCatch/MyClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="44" selection-start-line="3" selection-start-column="44" selection-end-line="3" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DemoPack/Lesson13/Exceptions/TryAndCatch/Exe2/Cat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="223">
+          <caret line="29" selection-start-line="29" selection-end-line="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DemoPack/Lesson13/Exceptions/TryAndCatch/Demo1/AppFileReader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="8" column="63" lean-forward="true" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="63" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DemoPack/Lesson13/Exceptions/TryAndCatch/Demo2/AppFileReader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="1" lean-forward="true" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DemoPack/Lesson13/Exceptions/TryAndCatch/Demo3/AppFileOpen.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="43" selection-start-line="10" selection-start-column="43" selection-end-line="10" selection-end-column="43" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DemoPack/Lesson13/Exceptions/TryAndCatch/MultipleExceptions/App.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-22">
+          <caret line="7" column="42" selection-start-line="7" selection-start-column="42" selection-end-line="7" selection-end-column="42" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DemoPack/Lesson13/Exceptions/TryAndCatch/MultipleExceptions/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="157">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DemoPack/Lesson13/Exceptions/TryAndCatch/Exe1ListOfNumbers/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DemoPack/Lesson13/Exceptions/TryAndCatch/Exe1ListOfNumbers/ListOfNumbers1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-109">
+          <caret line="4" column="29" selection-start-line="4" selection-start-column="29" selection-end-line="4" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DemoPack/AgeDate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" selection-start-line="2" selection-end-line="2" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DemoPack/Lesson13/Exceptions/TryAndCatch/Calendar/CalendarDateFormate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="257">
+          <caret line="31" column="62" lean-forward="true" selection-start-line="29" selection-start-column="8" selection-end-line="31" selection-end-column="62" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DemoPack/Lesson13/Exceptions/TryAndCatch/Calendar/NYTimeZone.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="178">
+          <caret line="13" column="33" selection-start-line="13" selection-start-column="33" selection-end-line="13" selection-end-column="33" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
