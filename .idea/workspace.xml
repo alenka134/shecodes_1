@@ -2,47 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3b4d40bc-ee4f-4222-aadf-9e8a111ea9e5" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/DemoPack/Garbage/AnimalDog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DemoPack/Lesson11/Interface/Integration/AppIntegration.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DemoPack/Lesson11/Interface/Integration/IStartable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DemoPack/Lesson11/Interface/Integration/Info.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DemoPack/Lesson11/Interface/Integration/Machine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DemoPack/Lesson11/Interface/Integration/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DemoPack/Lesson11/Interface/PassByValue/IceCream.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DemoPack/Lesson11/Interface/PassByValue/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DemoPack/Lesson12/Abstract/Anonymous/Age.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DemoPack/Lesson12/Abstract/Anonymous/AnonymousDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DemoPack/Lesson12/Abstract/Anonymous/ExampleAnonymous/Runnable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DemoPack/Lesson12/Abstract/Anonymous/ExampleAnonymous/RunnableMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DemoPack/Lesson12/Abstract/Anonymous/ExampleAnonymous/Task.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DemoPack/Lesson12/Abstract/Anonymous/ExampleAnonymous/TaskMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DemoPack/Lesson12/Abstract/Anonymous/MyClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DemoPack/Lesson12/Abstract/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DemoPack/Lesson12/Abstract/Camera.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DemoPack/Lesson12/Abstract/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DemoPack/Lesson12/Abstract/InnerClassExample/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DemoPack/Lesson12/Abstract/InnerClassExample/DataStructure.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DemoPack/Lesson12/Abstract/InnerClassExample/DataStructureIterator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DemoPack/Lesson12/Abstract/Machine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DemoPack/Lesson13/Exceptions/TryAndCatch/Calendar/CalendarDateFormate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DemoPack/Lesson13/Exceptions/TryAndCatch/Calendar/NYTimeZone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DemoPack/Lesson13/Exceptions/TryAndCatch/Demo1/AppFileReader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DemoPack/Lesson13/Exceptions/TryAndCatch/Demo2/AppFileReader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DemoPack/Lesson13/Exceptions/TryAndCatch/Demo3/AppFileOpen.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DemoPack/Lesson13/Exceptions/TryAndCatch/Exe1ListOfNumbers/ListOfNumbers1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DemoPack/Lesson13/Exceptions/TryAndCatch/Exe1ListOfNumbers/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DemoPack/Lesson13/Exceptions/TryAndCatch/Exe2/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DemoPack/Lesson13/Exceptions/TryAndCatch/Exe2/MainCat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DemoPack/Lesson13/Exceptions/TryAndCatch/MultipleExceptions/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DemoPack/Lesson13/Exceptions/TryAndCatch/MultipleExceptions/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DemoPack/Lesson13/Exceptions/TryAndCatch/MyClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DemoPack/Lesson13/Exceptions/TryAndCatch/Throw/MyClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DemoPack/Lesson13/Exceptions/TryAndCatch/Throw/targil1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dbnavigator.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DemoPack/Lesson14/ArrayList/ArrayListIterator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DemoPack/Lesson14/ArrayList/ArrayListTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java/DemoPack/AgeDate.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java/DemoPack/AgeDate.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DemoPack/AgeDate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DemoPack/AgeDate.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -58,11 +20,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="CalendarDateFormate.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/DemoPack/Lesson13/Exceptions/TryAndCatch/Calendar/CalendarDateFormate.java">
+      <file leaf-file-name="ArrayListTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/DemoPack/Lesson14/ArrayList/ArrayListTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="257">
-              <caret line="31" column="62" lean-forward="true" selection-start-line="29" selection-start-column="8" selection-end-line="31" selection-end-column="62" />
+            <state relative-caret-position="252">
+              <caret line="32" column="21" selection-start-line="32" selection-start-column="21" selection-end-line="32" selection-end-column="21" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -70,11 +32,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="NYTimeZone.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/DemoPack/Lesson13/Exceptions/TryAndCatch/Calendar/NYTimeZone.java">
+      <file leaf-file-name="ArrayListIterator.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/DemoPack/Lesson14/ArrayList/ArrayListIterator.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="178">
-              <caret line="13" column="33" selection-start-line="13" selection-start-column="33" selection-end-line="13" selection-end-column="33" />
+            <state relative-caret-position="73">
+              <caret line="11" column="35" lean-forward="true" selection-start-line="11" selection-start-column="35" selection-end-line="11" selection-end-column="35" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -104,9 +66,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="dfd468b5-cc88-46fb-bce8-69ad04548369/consoles/MysqlLocalRoot" />
-        <option value="$PROJECT_DIR$/src/DemoPack/Lesson11/Interface/ComparableComparatorExample/House.java" />
-        <option value="$PROJECT_DIR$/src/DemoPack/Lesson11/Interface/ComparableComparatorExample/AppTest.java" />
         <option value="$PROJECT_DIR$/src/DemoPack/Lesson11/Interface/ComparableExample/PointsComparator.java" />
         <option value="$PROJECT_DIR$/src/DemoPack/Lesson11/Interface/ComparableExample/StudentComparatorByName.java" />
         <option value="$PROJECT_DIR$/src/DemoPack/Lesson11/Interface/Student.java" />
@@ -155,6 +114,9 @@
         <option value="$PROJECT_DIR$/src/DemoPack/AgeDate.java" />
         <option value="$PROJECT_DIR$/src/DemoPack/Lesson13/Exceptions/TryAndCatch/Calendar/CalendarDateFormate.java" />
         <option value="$PROJECT_DIR$/src/DemoPack/Lesson13/Exceptions/TryAndCatch/Calendar/NYTimeZone.java" />
+        <option value="$PROJECT_DIR$/src/DemoPack/Lesson14/ArrayList/ArrayList.java" />
+        <option value="$PROJECT_DIR$/src/DemoPack/Lesson14/ArrayList/ArrayListTest.java" />
+        <option value="$PROJECT_DIR$/src/DemoPack/Lesson14/ArrayList/ArrayListIterator.java" />
       </list>
     </option>
   </component>
@@ -195,15 +157,7 @@
               <item name="Java" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="DemoPack" type="462c0819:PsiDirectoryNode" />
-              <item name="TryAndCatch" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Java" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Java" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="DemoPack" type="462c0819:PsiDirectoryNode" />
-              <item name="TryAndCatch" type="462c0819:PsiDirectoryNode" />
-              <item name="Calendar" type="462c0819:PsiDirectoryNode" />
+              <item name="ArrayList" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -237,7 +191,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.NYTimeZone">
+  <component name="RunManager" selected="Application.ArrayListIterator">
     <configuration name="AgeDate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DemoPack.AgeDate" />
       <module name="Java" />
@@ -248,12 +202,22 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DemoPack.Lesson13.Exceptions.TryAndCatch.MultipleExceptions.App" />
+    <configuration name="ArrayListIterator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DemoPack.Lesson14.ArrayList.ArrayListIterator" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="DemoPack.Lesson13.Exceptions.TryAndCatch.MultipleExceptions.*" />
+          <option name="PATTERN" value="DemoPack.Lesson14.ArrayList.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="ArrayListTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DemoPack.Lesson14.ArrayList.ArrayListTest" />
+      <module name="Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DemoPack.Lesson14.ArrayList.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -264,16 +228,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="DemoPack.Lesson13.Exceptions.TryAndCatch.Calendar.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DemoPack.Lesson13.Exceptions.TryAndCatch.Exe1ListOfNumbers.Main" />
-      <module name="Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="DemoPack.Lesson13.Exceptions.TryAndCatch.Exe1ListOfNumbers.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -289,19 +243,19 @@
       </extension>
     </configuration>
     <list>
-      <item itemvalue="Application.Main" />
-      <item itemvalue="Application.App" />
       <item itemvalue="Application.AgeDate" />
       <item itemvalue="Application.CalendarDateFormate" />
       <item itemvalue="Application.NYTimeZone" />
+      <item itemvalue="Application.ArrayListTest" />
+      <item itemvalue="Application.ArrayListIterator" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ArrayListIterator" />
+        <item itemvalue="Application.ArrayListTest" />
         <item itemvalue="Application.NYTimeZone" />
         <item itemvalue="Application.CalendarDateFormate" />
         <item itemvalue="Application.AgeDate" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.App" />
       </list>
     </recent_temporary>
   </component>
@@ -407,7 +361,14 @@
       <option name="project" value="LOCAL" />
       <updated>1548915992150</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="sec">
+      <created>1550340464935</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1550340464935</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TodoView">
@@ -507,20 +468,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-10.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/ArrayList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="147">
-          <caret line="107" column="39" lean-forward="true" selection-start-line="107" selection-start-column="39" selection-end-line="107" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="db://dfd468b5-cc88-46fb-bce8-69ad04548369/consoles/MysqlLocalRoot">
-      <provider selected="true" editor-type-id="0.CONSOLE">
-        <state line="8" column="19" selection-start="137" selection-end="137" vertical-scroll-proportion="0.24390244">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/DemoPack/Lesson11/Interface/ComparableComparatorExample/House.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-180">
@@ -532,6 +479,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="314">
           <caret line="28" column="7" selection-start-line="28" selection-start-column="7" selection-end-line="28" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -568,6 +518,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="98">
           <caret line="28" column="53" selection-start-line="28" selection-start-column="53" selection-end-line="28" selection-end-column="53" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -575,6 +528,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
           <caret line="14" column="52" selection-start-line="14" selection-start-column="52" selection-end-line="14" selection-end-column="52" />
+          <folding>
+            <element signature="e#133#134#0" expanded="true" />
+            <element signature="e#164#165#0" expanded="true" />
+            <element signature="e#95#96#0" expanded="true" />
+            <element signature="e#131#132#0" expanded="true" />
+            <element signature="e#281#282#0" expanded="true" />
+            <element signature="e#317#318#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -596,6 +557,12 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
           <caret line="14" selection-start-line="14" selection-end-line="14" />
+          <folding>
+            <element signature="e#98#99#0" expanded="true" />
+            <element signature="e#134#135#0" expanded="true" />
+            <element signature="e#221#222#0" expanded="true" />
+            <element signature="e#257#258#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -603,6 +570,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
           <caret line="17" column="39" selection-start-line="17" selection-start-column="39" selection-end-line="17" selection-end-column="39" />
+          <folding>
+            <element signature="e#425#426#0" expanded="true" />
+            <element signature="e#456#457#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -610,6 +581,16 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
           <caret line="19" column="51" selection-start-line="19" selection-start-column="51" selection-end-line="19" selection-end-column="51" />
+          <folding>
+            <element signature="e#132#133#0" expanded="true" />
+            <element signature="e#167#168#0" expanded="true" />
+            <element signature="e#204#205#0" expanded="true" />
+            <element signature="e#232#233#0" expanded="true" />
+            <element signature="e#280#281#0" expanded="true" />
+            <element signature="e#315#316#0" expanded="true" />
+            <element signature="e#365#366#0" expanded="true" />
+            <element signature="e#421#422#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -651,6 +632,12 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
           <caret line="16" column="62" selection-start-line="16" selection-start-column="62" selection-end-line="16" selection-end-column="62" />
+          <folding>
+            <element signature="e#110#111#0" expanded="true" />
+            <element signature="e#146#147#0" expanded="true" />
+            <element signature="e#303#304#0" expanded="true" />
+            <element signature="e#339#340#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -899,6 +886,26 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="178">
           <caret line="13" column="33" selection-start-line="13" selection-start-column="33" selection-end-line="13" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DemoPack/Lesson14/ArrayList/ArrayListTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="32" column="21" selection-start-line="32" selection-start-column="21" selection-end-line="32" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DemoPack/Lesson14/ArrayList/ArrayListIterator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="73">
+          <caret line="11" column="35" lean-forward="true" selection-start-line="11" selection-start-column="35" selection-end-line="11" selection-end-column="35" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
