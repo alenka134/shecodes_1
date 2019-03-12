@@ -33,7 +33,7 @@ public class ArrayListTest {
         PrintArray();
     }
 
-    private static void PrintArray() {
+    public static void PrintArray() {
         System.out.println("*******");
         for (int i : array) {
             System.out.println(i);
